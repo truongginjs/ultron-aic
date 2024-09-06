@@ -11,7 +11,7 @@
 
 ## Usage
 
-1.  *Use dev container:  `ctrl+P` -> `dev container: Build and Open In container`
+1.  *Use dev container:*  `ctrl+P` -> `dev container: Build and Open In container`
 2. Open `AIC/AIC-2023-Baseline-v1.ipynb`
 3. Motify dataset path
 4. Select kernel
