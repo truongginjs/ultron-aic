@@ -1,4 +1,4 @@
-# Readme
+# Read me
 
 ## Requirement
 
@@ -16,3 +16,5 @@
 3. Motify dataset path
 4. Select kernel
 5. Run All cell 
+6. access fiftyone: http://localhost:5151
+7. Have fun!
