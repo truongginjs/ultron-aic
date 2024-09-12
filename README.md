@@ -7,8 +7,8 @@
 Thời gian nộp bài thi thử là từ 12g00 ngày 06/9/2024 đến 08g00 ngày 15/9/2024
 
 ## Requirement
-
-[Thông tin cách đánh giá vòng sơ tuyển](https://docs.google.com/document/d/1ZxOjnQHLirhgyH8xxC8G9dqpYza_s3yrBjgtoxREw0o/edit#heading=h.pqwwy0h9o8n)
+- [Bảng A](https://codalab.lisn.upsaclay.fr/competitions/20122)
+- [Thông tin cách đánh giá vòng sơ tuyển](https://docs.google.com/document/d/1ZxOjnQHLirhgyH8xxC8G9dqpYza_s3yrBjgtoxREw0o/edit#heading=h.pqwwy0h9o8n)
 
 ## Dataset
 
